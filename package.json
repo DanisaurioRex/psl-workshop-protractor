@@ -1,0 +1,22 @@
+{
+  "author": "dany.jimenez999@gmail.com (Daniel Jim�nez)",
+  "description": "La descripci�n que guste",
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  },
+  "keywords": [
+    "practice",
+    "protractor",
+    "psl",
+    "training",
+    "workshop"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "psl-workshop-protractor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanisaurioRex/psl-workshop-protractor.git"
+  },
+  "version": "1.0.0"
+}
