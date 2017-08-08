@@ -18,5 +18,8 @@
     "type": "git",
     "url": "https://github.com/DanisaurioRex/psl-workshop-protractor.git"
   },
+  "scripts": {
+     "test": "protractor protractor.config.js"
+  },
   "version": "1.0.0"
 }
